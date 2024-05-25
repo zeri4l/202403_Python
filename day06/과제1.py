@@ -29,7 +29,6 @@ class Infor:
             return "남성"
         else:
             return "여성"
-       
 
     
     def show(self):
