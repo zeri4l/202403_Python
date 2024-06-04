@@ -20,5 +20,5 @@ print('안녕하세요,', name, '님', sep="")
 
             
 '''주석'''
-print(f'asdfasdf{name}asdf')
+print(f'asdf{name}asdf')
 print
