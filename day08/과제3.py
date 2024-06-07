@@ -1,5 +1,4 @@
 print(eval("1+2"))
-
 x = 1
 y = 1
 print(eval('x+y'))
